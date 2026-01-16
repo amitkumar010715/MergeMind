@@ -1,0 +1,8 @@
+autogen
+autogen-agentchat[gemini]~=0.2
+gradio
+python-dotenv
+ag2[openai]
+google-genai
+vertexai
+ag2[gemini]
