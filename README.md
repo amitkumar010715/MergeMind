@@ -1,4 +1,4 @@
-# MergeMind
+# MergeMind(demo:https://huggingface.co/spaces/Amit12112012/MergeMind)
 
 MergeMind is a premium multi-model AI code generator that leverages the power of OpenAI's GPT models and Gemini models to provide efficient and accurate coding solutions. This project is designed to help developers generate, evaluate, and refine code snippets for various use cases.
 
